@@ -2,7 +2,9 @@
 ## root:~$ whoami
 > Software engineer student at [1337](https://1337.ma/en/) \
 > “You can't make an omelette without breaking eggs” 
-
+<p align="center">  
+<img src ="[https://cdn.dribbble.com/users/2495095/screenshots/6022014/media/bde6ebc855e312547d5f791f427de779.gif](https://media.tenor.com/HWnFcTIV_gsAAAAC/yugioh-cards.gif)">
+</p>
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=nassibi107" alt="nassibi107" /></a> </p>
 
 - 🌱 I’m currently learning **C and lower level**

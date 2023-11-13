@@ -21,7 +21,6 @@
 
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=nassibi107&show_icons=true&locale=en" alt="nassibi107" /></p>
-
 https://badge.mediaplus.ma/black/ynassibi
-[![ynassibi's 42 stats](https://badge.mediaplus.ma/black/ynassibi)](https://github.com/oakoudad/badge42)
+
 

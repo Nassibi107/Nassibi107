@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm yassinenassibi</h1>
 <h3 align="center">A passionate full stactk developer from morocco</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=nassibi107&label=Profile%20views&color=0e75b6&style=flat" alt="nassibi107" /> </p>
+<p align="left"> <img src="68747470733a2f2f63646e2e6472696262626c652e636f6d2f75736572732f323439353039352f73637265656e73686f74732f363032323031342f6d656469612f62646536656263383535653331323534376435663739316634323764653737392e676966" alt="nassibi107" /> </p>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=nassibi107" alt="nassibi107" /></a> </p>
 

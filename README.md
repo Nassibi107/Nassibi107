@@ -21,6 +21,6 @@
 
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=nassibi107&show_icons=true&locale=en" alt="nassibi107" /></p>
-<a href="https://github.com/oakoudad/badge42"><img src="https://badge.mediaplus.ma/black/ynassibi" alt="ynassibi's 42 stats" /></a>
+<a align="center" href="https://github.com/oakoudad/badge42"><img src="https://badge.mediaplus.ma/black/ynassibi" alt="ynassibi's 42 stats" /></a>
 
 
